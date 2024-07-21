@@ -1,0 +1,15 @@
+[
+    {
+        "sliders":[
+            {
+                "id": "slider1",
+                "title": "Slider 1",
+                "description": "This is the first slider",
+                "image": "slider1.jpg",
+                "button_text": "Learn More",
+                "button_link": "/learn-more"
+            }
+        ]
+    }
+
+]
